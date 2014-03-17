@@ -1,3 +1,14 @@
+/*
+============================================================================
+Name : archiver.c
+Author : Lukas Gruenewald (536059), Benjamin Schuch (533347)
+Version : 1.0
+Copyright : 2014
+Description : Simple Archiver in C.
+Credits: https://bitbucket.org/fresc81
+============================================================================
+*/
+
 #include <string.h>
 #include <stdint.h>
 #include <stdlib.h>
