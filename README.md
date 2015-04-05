@@ -10,7 +10,9 @@ If you are intrested in the task please visit http://wi.f4.htw-berlin.de/users/m
 ##Installation
 
 >make all
+
 >make clean
+
 >make test
 
 ##Commands
