@@ -17,15 +17,15 @@ If you are intrested in the task please visit http://wi.f4.htw-berlin.de/users/m
 
 ##Commands
 
-####New archive
+**New archive**
 
 >-n ArchiveName
 
-####Add file to archive
+**Add file to archive**
 
 >-a ArchiveName FileName
 
-####List content of archive
+**List content of archive**
 
 >-d ArchiveName
 
