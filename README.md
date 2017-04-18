@@ -1,11 +1,11 @@
 Simple-Archiver
 ===================
 
-##Task
+## Task
 
 We had to program a simple zip like archiver in our second semester operating systems course. 
 
-##Installation
+## Installation
 
 >make all
 
@@ -13,7 +13,7 @@ We had to program a simple zip like archiver in our second semester operating sy
 
 >make test
 
-##Commands
+## Commands
 
 **New archive**
 
@@ -27,7 +27,7 @@ We had to program a simple zip like archiver in our second semester operating sy
 
 >-d ArchiveName
 
-##Credits
+## Credits
 
 https://bitbucket.org/fresc81
 
